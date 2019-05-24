@@ -7,8 +7,11 @@ A very simple mystery game following Taylor Arthur, a newbie private investigato
 ## A Quick Look
 It doesn't look that great yet, but that's mostly because I haven't been able to put the art I wanted in it.
 
-<img src="
+<img src="Screenshots/mainmenu.PNG/">
 
+<img src="Screenshots/continue.PNG/">
+
+<img src="Screenshots/gamescreen.PNG/">
 
 Those Black Spaces are where I wanted to put pictures that go with the story.
 
