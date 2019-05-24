@@ -1,0 +1,64 @@
+000000010000
+Taylor: SOMEWHERE ELSE!!!
+000000000000
+Patrick: That makes sense. Maybe we should-
+000000000000
+Police Officer: Sir!
+000000000000
+Patrick: What is it Carl?
+000000000000
+Officer Carl: Officer Ledu Dawn sent me to report to you about his findings:
+000000000000
+Patrick: Continue.
+000000000000
+Officer Carl: I've got the list of everything but most importantly is this schedule.
+000000000000
+Officer Carl: Apparently Mr. Woods was very particular about his tea.
+000000000000
+Officer Carl: He had a certain kind of tea at specific times in specific places.
+000000000000
+Officer Carl: This allows us to confirm the crime scene,
+000000000000
+Officer Carl: as the schedule lists that he would always have a specific tea in his study at 3:00 .
+000000000000
+Officer Carl: Therefore if he died when we speculated that he died, he must have died in the study.
+000000000000
+Taylor: ...You have got to be kidding me.
+000000000000
+Officer Carl: That's what I said when I first saw this thing.
+000000000000
+Officer Carl: One of the maids passing by laughed before saying that she had worked here for 10 years,
+000000000000
+Officer Carl: and she had never seen the old man deviate from his schedule once.
+000000000000
+Officer Carl: Apparently it was one of the few things that he wanted done a specific way.
+000000000000
+Officer Carl: It's also how Francine Mei got her job.
+000000000000
+Officer Carl: Some of the maids were gossiping about it.
+000000000000
+Officer Carl: They said that she was able to make every single tea correctly on the first try.
+000000000000
+Patrick: That's very interesting Carl.
+000000000000 
+Patrick: Could you go file that along with a report of what you heard in the evidence for this case.
+000000000000
+Patrick: Then go take your break, I think it's about time.
+000000000000
+Officer Carl: Sure thing Boss. Don't worry about the report I already wrote it.
+000000000000
+Officer Carl: Here's the copy of the schedule and the report for you guys.
+000000000000
+Officer Carl: See ya later Boss.
+500010000000
+EVIDENCE GET:      Tea Schedule
+000000000000
+Patrick: ...
+000000000000
+Taylor: ...
+000000000000
+Sophia: ...
+000000000000
+Patrick: Well it was a good idea kid.
+000000000020
+Taylor: I'll just... try something else.

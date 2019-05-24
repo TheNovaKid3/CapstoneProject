@@ -1,0 +1,20 @@
+000000010000
+Taylor: This is a nice desk.
+000000000000
+Sophia: Mr. Woods was the richest man in town.
+000000000000
+Taylor: No kidding. That tea set looks expensive.
+000000000000
+Patrick: Sterling Silver apparently. The maid told us that.
+000000000000
+I pointedly ignored the part of my brain that's in shock over what that tea set must have cost.
+300000000000
+Evidence Get:      Tea Set
+000000000000
+Taylor: What's that piece of paper?
+000000000000
+Patrick: As far as we can tell, the old man was rewriting his will.
+000000000000
+Patrick: He was in the middle of typing it up on his laptop.
+400101000000
+Evidence Get:      Will

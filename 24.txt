@@ -1,0 +1,106 @@
+000000110000
+Taylor: The Tea.
+000000000000
+Patrick: What?
+000000000000
+Taylor: It's the only option the murder weapon must have been-
+000000000000
+Police Officer: Sir.
+000000000000
+Patrick: What is it Carl?
+000000000000
+Officer Carl: Officer Ledu Dawn sent me to report to you about his findings:
+000000000000
+Patrick: Continue.
+000000000000
+Officer Carl: I've got the list of everything but most importantly is this schedule.
+000000000000
+Officer Carl: Apparently Mr. Woods was very particular about his tea.
+000000000000
+Officer Carl: He had a certain kind of tea at specific times in specific places.
+000000000000
+Officer Carl: This allows us to confirm the crime scene,
+000000000000
+Officer Carl: as the schedule lists that he would always have a specific tea in his study at 3:00.
+000000000000
+Officer Carl: Therefore if he died when we speculated that he died, he must have died in the study.
+000000000000
+Patrick: Carl is there anything else you can tell us about that tea schedule.
+000000000000
+Officer Carl: Well when I first saw this thing I said something along the lines of:
+000000000000
+Officer Carl: "You've got to be kidding me."
+000000000000
+Officer Carl: because it's got to be one of the weirdest things I've ever seen.
+000000000000
+Officer Carl: One of the maids passing by laughed before saying that she had worked here for 10 years,
+000000000000
+Officer Carl: and she had never seen the old man deviate from his schedule once.
+000000000000
+Officer Carl: Apparently it was one of the few things that he wanted done a specific way.
+000000000000
+Officer Carl: It's also how Francine Mei got her job.
+000000000000
+Officer Carl: Some of the maids were gossiping about it.
+000000000000
+Officer Carl: They said that she was able to make every single tea correctly on the first try.
+000000000000
+Patrick: Thanks Carl could you file that with the evidence.
+000000000000
+Patrick: And write up a report about the gossip you heard.
+000000000000
+Patrick:  Oh, and make sure to get me a copy.
+000000000000
+Officer Carl: Done and Done Sir.
+000000000000
+Officer Carl: I knew that you'd want a copy and for me to write a report. Here you go.
+500000000000
+EVIDENCE GET:      Tea Schedule
+000000000000
+Patrick: Thanks Carl. Also, Isn't it time for your break?
+000000000000
+Officer Carl: Yeah but I thought that you would want this now rather than later.
+000000000000
+Officer Carl: And there's no way I'm trusting Shawn with this. Anyway I'll see ya later Boss.
+000000000000
+Taylor: Well then, that just helps me prove it was the tea even more.
+000000000000
+Patrick: How so?
+000000000000
+Taylor: It does two things. 
+000000000000
+Taylor: It proves the tea could have been used as the murder weapon,
+000000000000
+Taylor: and it narrows the range of the suspects.
+000000000000
+Sophia: It proves the tea could be used as a weapon because it's a habit.
+000000000000
+Sophia: The perpetrator knew that Oak was going to drink the tea at specific time and place.
+000000000000
+Sophia: From there all they had to do was poison the tea.
+000000000000
+Sophia: At that point it was guaranteed that Oak would die.
+000000000000
+Patrick: Oh! And it narrows the range of possible suspects,
+000000000000
+Patrick: because only people who knew these habits could take advantage of them.
+000000000000
+Patrick: Meaning that the only possible suspects are those who live here, 
+000000000000
+Patrick: because I'm pretty sure that that monster of a schedule isn't common knowledge.
+000000000000
+Taylor: Exactly.
+000000000000
+Patrick took a radio from his belt.
+000000000000
+Patrick: Hey Dave. Could you get up here? I need you to take something to forensics.
+000000000000
+Officer Dave: Sure thing sir. What do you need me to grab?
+000000000000
+Patrick: The Tea Set and all the tea in it. 
+000000000000
+Patrick: Tell them to check for poison and to tell the docs doing the autopsy to check for the same.
+000000000000
+Officer Dave: No problem Sir. I'll be there in just a minute.
+000000000001
+DEDUCTION COMPLETE

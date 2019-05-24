@@ -1,0 +1,12 @@
+000000010000
+Taylor: The carpet must be a pain to clean. It's pure white.
+000000000000
+Sophia: I think I see what Patrick means by something odd about the crime scene.
+000000000000
+Taylor: What is it?
+000000000000
+Sophia: I'll tell you in a bit. Make sure to investigate thoroughly.
+000000000000
+I wondered for a minute about what was odd about the floor.
+000101000000
+It looked perfectly fine to me.

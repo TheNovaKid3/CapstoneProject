@@ -1,0 +1,4 @@
+000000000000
+What should I investigate?  
+030000000000
+1. Investigate Floor      2. Investigate Desk      3. Investigate Bookshelf
